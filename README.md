@@ -1,6 +1,6 @@
 # rutificador-scraper
 
-Scrip echo en `Python` que permite extraer informacion de la pagina rutificador.net.
+Script echo en `Python` que permite extraer informacion de la pagina rutificador.net.
 
 # ES
 ### Características
