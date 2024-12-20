@@ -18,7 +18,7 @@ https://github.com/th-ofc/ytdl-tkinter.git](https://github.com/th-ofc/rutificado
 
 ![imagen](https://github.com/user-attachments/assets/9db403ff-c97e-4ee0-87eb-def1495657a9)
 
-    
+
 ### Uso y resultados:
 
 ![imagen](https://github.com/user-attachments/assets/e9f28d4a-35ff-431a-b600-5c315fe247a8)
