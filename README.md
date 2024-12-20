@@ -13,12 +13,6 @@ El script utiliza las librerías requests y BeautifulSoup para enviar solicitude
 https://github.com/th-ofc/ytdl-tkinter.git](https://github.com/th-ofc/rutificador-scraper.git
 ```
 
-* Luego de clonar el repositorio ejecutar el archivo getphpssid.py y remplazar esta linea de codigo por tu phpssid en las funciones de buscarRut y buscarName:*
-  
-
-![imagen](https://github.com/user-attachments/assets/9db403ff-c97e-4ee0-87eb-def1495657a9)
-
-
 ### Uso y resultados:
 
 ![imagen](https://github.com/user-attachments/assets/e9f28d4a-35ff-431a-b600-5c315fe247a8)
